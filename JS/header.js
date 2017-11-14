@@ -1,3 +1,3 @@
 $(function(){
-  $(".header").load("header.html");
+  $(".header").load("Blog/header.html");
 });
