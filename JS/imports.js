@@ -1,3 +1,5 @@
-$(function(){
-  $(".imports").load("imports.html");
-});
+$(document).ready(
+  $(function(){
+    $(".imports").load("imports.html");
+  });
+);
