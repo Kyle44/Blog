@@ -1,3 +1,3 @@
 $(function(){
-  $("#imports").load("imports.html");
+  $("#imports").load("../imports.html");
 });
